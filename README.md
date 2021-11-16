@@ -49,6 +49,7 @@
 </div>
 
 ### Dev Card 
+<div style="display:flex">
 <a href="https://app.daily.dev/hadi21k"><img src="https://api.daily.dev/devcards/541efae835844402a5a97ebe344bcc28.png?r=3u2" width="400" alt="Hadi's Dev Card"/></a>
 
 ## 🔗Connect with Me via
@@ -61,4 +62,4 @@
 <br />
 <br />
 <br />
-
+</div>
