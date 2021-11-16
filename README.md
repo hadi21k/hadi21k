@@ -48,8 +48,6 @@
 <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox" />
 </div>
 
-### Dev Card 
-<a href="https://app.daily.dev/hadi21k"><img src="https://api.daily.dev/devcards/541efae835844402a5a97ebe344bcc28.png?r=3u2" width="400" height="400" alt="Hadi's Dev Card"/></a>
 
 ## 🔗Connect with Me via
 
