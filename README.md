@@ -1,10 +1,16 @@
 ﻿# Hi Devs 👋
 
-<div align="center"> 
-<iframe src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="200" height="200" frameBorder="0" class="giphy-embed" >
-</iframe>
+<div align="center">
+<img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150"/>
 </div>
+<br />
+<div align="center">
 <h4> I'm Hadi Diab a Front End Developer based in Beirut, Lebanon</h4>
+<br />
+<a href="https://twitter.com/hadi21k"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="github" align="center" /></a>
+<a href="https://instagram.com/hadi21k"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="github" align="center" /></a>
+<a href="https://www.linkedin.com/in/hadi-diab-564b05195"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="github" align="center" /></a>
+</div>
 <br />
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" align="center" />
@@ -57,9 +63,6 @@
 
 <h5>Feel free to message me about anything you want</h5>
 <br />
-<a href="https://twitter.com/hadi21k"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="github" align="center" /></a>
-<a href="https://instagram.com/hadi21k"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="github" align="center" /></a>
-<a href="https://www.linkedin.com/in/hadi-diab-564b05195"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="github" align="center" /></a>
 <br />
 <br />
 <br />
