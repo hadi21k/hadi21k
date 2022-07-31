@@ -31,9 +31,7 @@
  </div>
  <br />
 
-### :man_technologist: Portfolio
-
-<a href="https://hadii.vercel.app/">
+### :man_technologist: Portfolio <a href="https://hadii.vercel.app/">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" align="center" />
 </a>
 
