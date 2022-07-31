@@ -15,9 +15,13 @@
 <div>
 </div>
 
+<div align="center" >
 ## :hammer_and_wrench: Language and Tools: 
+</div>
 
 <div>
+
+<div align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" align="center" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" align="center" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" align="center" />
@@ -28,24 +32,31 @@
  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" align="center" />
  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite" align="center" />
  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" align="center" />
- </div>
- <br />
+</div>
 
-### :man_technologist: Portfolio <a href="https://hadii.vercel.app/">
+<br />
+
+<div align="center">
+## :man_technologist: Portfolio <a href="https://hadii.vercel.app/">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" align="center" />
 </a>
+</div>
 
+<div align="center">
 ## Source Control
+</div>
 
-<div>
+<div align="center">
 <a href="https://github.com/hadi21k"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" align="center" /></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" align="center" />
 </div>
 <br />
 
+<div align="center">
 ### IDE:  
+</div>
 
-<div>
+<div align="center">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="vim" />
 <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox" />
