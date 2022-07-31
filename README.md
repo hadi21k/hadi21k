@@ -1,5 +1,9 @@
 ﻿# Hi Devs 👋
 
+<div align="center"> 
+<iframe src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="200" height="200" frameBorder="0" class="giphy-embed" >
+</iframe>
+</div>
 <h4> I'm Hadi Diab a Front End Developer based in Beirut, Lebanon</h4>
 <br />
 <div>
