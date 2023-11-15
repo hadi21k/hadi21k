@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 </div>
 <br />
-<div align="center">
+<div>
 <h4>
 Experienced in Full Stack Development, demonstrating proficiency in JavaScript, Node.js, and React.js, and presenting a track record of delivering impactful web solutions. Emphasizing innovation, precise analytical, design, and problem-solving, the commitment to continuous growth drives excellence in the ever-evolving tech industry. Keen on seeking challenges that enhance my skills and contribute to professional development.
 </h4>
