@@ -14,7 +14,7 @@ Experienced in Full Stack Development, demonstrating proficiency in JavaScript, 
 <div>
 </div>
 
-## :hammer_and_wrench: Language and Tools: 
+## :hammer_and_wrench: Language and Tools
 
 <div>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" align="center" />
