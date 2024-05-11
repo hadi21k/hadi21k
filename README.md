@@ -3,15 +3,15 @@
 Experienced in Full Stack Development, demonstrating proficiency in JavaScript, Node.js, and React.js, and presenting a track record of delivering impactful web solutions. Emphasizing innovation, precise analytical, design, and problem-solving, the commitment to continuous growth drives excellence in the ever-evolving tech industry. Keen on seeking challenges that enhance my skills and contribute to professional development.
 </p>
 
-<a href="https://instagram.com/hadi21k">
+<a href="https://instagram.com/hadidiiab">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="GitHub" align="center" />
 </a>
     
-<a href="https://www.linkedin.com/in/hadi-diab-564b05195">
+<a href="https://www.linkedin.com/in/hadidiab">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GitHub" align="center" />
 </a>
 
-<a href="https://hadii.vercel.app">
+<a href="https://hadidiab.tech">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" align="center" />
 </a>
 
